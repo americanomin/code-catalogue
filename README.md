@@ -24,3 +24,14 @@
 |saleor         |https://github.com/saleor/saleor        |     ||
 |shuup         |https://github.com/shuup/shuup        |     ||
 |         |        |     ||
+
+# API 
+| service | link | description |comment|
+|---------|--------|-----|-----|
+|  stripe       | https://stripe.com/docs/api       |     ||
+
+
+# Domain System Design
+| service | link | description |comment|
+|---------|--------|-----|-----|
+|  BroadleafCommerce       | https://developer.broadleafcommerce.com/services       | BroadleafCommerce 서비스 구현 설명    |e-commerce 도메인 지식 및 구현 방법을 파악하기 유용|
