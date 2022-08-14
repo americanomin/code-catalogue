@@ -1,7 +1,8 @@
 # 목차
-1.[Programming](#Programming)
-2.[API](#API)
-3.[Domain System Design](#Domain System Design)
+* [Programming](#Programming)
+  *   [Java&Spring](#Java&Spring)
+* [API](#API)
+* [Domain System Design](#Domain-System-Design)
 
 # Programming 
 ## Java&Spring
