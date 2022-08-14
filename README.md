@@ -1,12 +1,16 @@
 # 목차
 * [Programming](#Programming)
   *   [Java&Spring](#Java&Spring)
+      *   [E-commerce Spring](#E-commerce-Spring)
+      *   [General Code](#General-Code)
+  *   [Python&Django](#Python&Django)
+      *   [E-commerce Spring](#E-commerce-Django)
 * [API](#API)
 * [Domain System Design](#Domain-System-Design)
 
 # Programming 
 ## Java&Spring
-### E-commerce Spring 
+### E-commerce Spring
 | project | github | description | comment |
 |---------|--------|-----|-----|
 |BroadleafCommerce         |https://github.com/BroadleafCommerce/BroadleafCommerce        |   -  |e-commerce 구현할 때 네이밍, 구조 등을 참고하기 유용|
@@ -24,7 +28,7 @@
 
 
 ## Python&Django
-### E-commerce 
+### E-commerce Django
 | project | github | description |comment|
 |---------|--------|-----|-----|
 |saleor         |https://github.com/saleor/saleor        |     ||
