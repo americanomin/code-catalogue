@@ -17,14 +17,23 @@
 |         |        |     ||
 |         |        |     ||
 
-### General Code 
+### hexagonal architecture
+| project | github | description | comment|
+|---------|--------|-----|-----|
+|clean-architecture        |https://github.com/wikibook/clean-architecture     |만들면서 배우는 클린 코드 아키텍처 도서 예제 코드|헥사고날 템플릿 잡을 때 유용|
+|allegro sample |https://github.com/dziadeusz/hexagonal-architecture-by-example|[allegro 포스팅 예제 코드](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)|
+
+### domain driven architecture
 | project | github | description | comment|
 |---------|--------|-----|-----|
 |ddd-start2         |https://github.com/madvirus/ddd-start2          |최범균님의 ddd 최신 도서 예제 코드|command-query 패턴 감 익힐 때 유용|
 |ddd-start         |        https://github.com/madvirus/ddd-start    |최범균님의 ddd 도서 예제 코드|ddd entity 구현할 때 유용|
+
+### Etc
 |tdd      |https://github.com/madvirus/tddb     |최범균님의 테스트 코드 도서 예제 코드|junit tc 작성할 때 유용|
-|clean-architecture        |https://github.com/wikibook/clean-architecture     |만들면서 배우는 클린 코드 아키텍처 도서 예제 코드|헥사고날 템플릿 잡을 때 유용|
 |Real-World-Software-Development|https://github.com/Iteratr-Learning/Real-World-Software-Development|실전 자바 소프트웨어 개발 예제 코드|-|
+
+
 
 
 
