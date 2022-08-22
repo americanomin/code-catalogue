@@ -22,6 +22,10 @@
 |---------|--------|-----|-----|
 |clean-architecture        |https://github.com/wikibook/clean-architecture     |만들면서 배우는 클린 코드 아키텍처 도서 예제 코드|헥사고날 템플릿 잡을 때 유용|
 |allegro sample |https://github.com/dziadeusz/hexagonal-architecture-by-example|[allegro 포스팅 예제 코드](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)|
+||https://github.com/nicusX/hexagonal-architecture-example/||카프카포함|
+||https://github.com/dev-aritra/spring-hexagonal|||
+
+
 
 ### domain driven architecture
 | project | github | description | comment|
