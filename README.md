@@ -30,9 +30,11 @@
 |ddd-start         |        https://github.com/madvirus/ddd-start    |최범균님의 ddd 도서 예제 코드|ddd entity 구현할 때 유용|
 
 ### Etc
+| project | github | description | comment|
+|---------|--------|-----|-----|
 |tdd      |https://github.com/madvirus/tddb     |최범균님의 테스트 코드 도서 예제 코드|junit tc 작성할 때 유용|
 |Real-World-Software-Development|https://github.com/Iteratr-Learning/Real-World-Software-Development|실전 자바 소프트웨어 개발 예제 코드|-|
-
+|baeldung|https://github.com/eugenp/tutorials|baeldung 예제 코드|일단 다운받아두고 코드 검색하기 유용|
 
 
 
