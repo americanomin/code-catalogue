@@ -32,6 +32,7 @@
 |---------|--------|-----|-----|
 |ddd-start2         |https://github.com/madvirus/ddd-start2          |최범균님의 ddd 최신 도서 예제 코드|command-query 패턴 감 익힐 때 유용|
 |ddd-start         |        https://github.com/madvirus/ddd-start    |최범균님의 ddd 도서 예제 코드|ddd entity 구현할 때 유용|
+|SNS|https://github.com/KimHyoJin/Simple-SNS/blob/c2250397531fc96f1349e808ddaf6851a7dce637/src/main/java/com/fast/campus/simplesns/controller/UserController.java|패스트캠퍼스 간단한 SNS 애플리케이션 예제 코드|엔티티<>도메인 모델 변환 로직 참고하기 유용|
 
 ### Etc
 | project | github | description | comment|
