@@ -24,7 +24,7 @@
 |allegro sample |https://github.com/dziadeusz/hexagonal-architecture-by-example|[allegro 포스팅 예제 코드](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)|
 ||https://github.com/nicusX/hexagonal-architecture-example/||카프카포함|
 ||https://github.com/dev-aritra/spring-hexagonal|||
-||https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project/|예약/결제 모듈 ㄱ반 히사고날 |강추|
+||https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project/|예약/결제 도메인 기반 헥사고날 |클린아키텍처 레포 기반 코드|
 ||https://github.com/wikibook/dhaj|만들면서 배우는 헥사고날 아키텍처 설계와 구현 예제 코드|예제 도메인이 네트워크여서 눈에는 잘 안들어옴|
 
 
